@@ -1,0 +1,27 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "This is a express server",
+  "keywords": [
+    "web",
+    "server",
+    "express",
+    "node",
+    "api"
+  ],
+  "homepage": "https://github.com/pranshoorathore/express#readme",
+  "bugs": {
+    "url": "https://github.com/pranshoorathore/express/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranshoorathore/express.git"
+  },
+  "license": "ISC",
+  "author": "Pranshoo Rathore",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
