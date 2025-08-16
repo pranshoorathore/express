@@ -1,18 +1,18 @@
 const products = [
     {
-        id: 101,
+        productId: 101,
         name: "iPhone 16",
         price: 90000,
         category: "Mobile"
     },
     {
-        id: 102,
+        productId: 102,
         name: "iPad Mini",
         price: 120000,
         category: "Tablet"
     },
     {
-        id: 103,
+        productId: 103,
         name: "Macbook",
         price: 150000,
         category: "Laptop"
