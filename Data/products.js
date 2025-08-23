@@ -1,3 +1,4 @@
+
 const products = [
     {
         productId : 101,
@@ -25,3 +26,5 @@ const products = [
         catgory: "Computer"
     }
 ]
+
+module.exports = products;

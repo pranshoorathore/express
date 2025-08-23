@@ -28,3 +28,4 @@ const orders = [
         orderDate : "04-02-2025"
     }
 ]
+module.exports = orders;
